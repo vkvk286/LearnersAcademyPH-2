@@ -88,8 +88,9 @@ Screenshots:
 ![teacherlist](https://user-images.githubusercontent.com/98210850/166095795-40660338-8289-4713-a370-77a7107d7694.png)
 
 # Adding subject Details
-![subdetails](https://user-images.githubusercontent.com/98210850/166095793-e18e067e-b4a4-4775-a273-2642ea7a3359.png)
 ![subjectdetaisl](https://user-images.githubusercontent.com/98210850/166095801-109ed0d3-0275-4d03-87fa-7b024aea71e8.png)
+![subdetails](https://user-images.githubusercontent.com/98210850/166095793-e18e067e-b4a4-4775-a273-2642ea7a3359.png)
+
 
 # Class Report
 ![class report](https://user-images.githubusercontent.com/98210850/166095800-f4696e2f-0584-4a39-932e-cc1c174de742.png)
