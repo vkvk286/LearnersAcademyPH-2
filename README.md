@@ -74,3 +74,19 @@ Screenshots:
 # Admin Page
 
 ![admin page](https://user-images.githubusercontent.com/98210850/166095718-3d9446f1-fc85-4f8c-aea1-9958db5a2985.png)
+![admin page](https://user-images.githubusercontent.com/98210850/166095798-288abea5-dfc7-40fe-81d2-ae67a29d2812.png)
+# Adding Student Details
+
+![student](https://user-images.githubusercontent.com/98210850/166095797-ca9509f0-6d6b-413a-85ca-2a84ef0a9a05.png)
+![student details](https://user-images.githubusercontent.com/98210850/166095796-ee8c5321-387c-466a-8b44-03b5d81a33ae.png)
+![class deailstofill](https://user-images.githubusercontent.com/98210850/166095791-5076ef84-0e67-4e46-bf11-b8bf312bbf2f.png)
+![classdetails](https://user-images.githubusercontent.com/98210850/166095794-274fe4e9-0b14-490c-9278-215c88b8aaa6.png)
+![teacherdetails](https://user-images.githubusercontent.com/98210850/166095802-0c4c0175-4393-4d8f-aca2-d82615be98a3.png)
+![teacherlist](https://user-images.githubusercontent.com/98210850/166095795-40660338-8289-4713-a370-77a7107d7694.png)
+![subdetails](https://user-images.githubusercontent.com/98210850/166095793-e18e067e-b4a4-4775-a273-2642ea7a3359.png)
+![subjectdetaisl](https://user-images.githubusercontent.com/98210850/166095801-109ed0d3-0275-4d03-87fa-7b024aea71e8.png)
+
+
+![class report](https://user-images.githubusercontent.com/98210850/166095800-f4696e2f-0584-4a39-932e-cc1c174de742.png)
+
+
