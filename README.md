@@ -67,4 +67,10 @@ The goal of this project is to apply servlet, jsp and JDBC concepts.
 
 Screenshots:
 
+ # Login Page
+ 
 ![login page](https://user-images.githubusercontent.com/98210850/166095564-80c8ae37-9263-4439-b946-ee51f256da40.png)
+
+# Admin Page
+
+![admin page](https://user-images.githubusercontent.com/98210850/166095718-3d9446f1-fc85-4f8c-aea1-9958db5a2985.png)
