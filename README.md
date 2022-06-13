@@ -52,24 +52,11 @@ The goal of this project is to apply servlet, jsp and JDBC concepts.
 •	Cookies: to store log-in data on the client browser. 
 
 
-## How to run the program
-•	clone project
 
-•	Import the file from github to your local repository 
-
-•	Go to file and import project from your local git repository
-
-•	Edit the database’ properties such as username, password and driverClassName to be suit to your database administration tool.
-
-•	Now run program on a server.
-
-•	To login you must enter admin for both username and password.
 
 Screenshots:
 
- # Login Page
- 
-![login page](https://user-images.githubusercontent.com/98210850/166095564-80c8ae37-9263-4439-b946-ee51f256da40.png)
+
 
 # Admin Page
 
@@ -79,7 +66,7 @@ Screenshots:
 ![student details](https://user-images.githubusercontent.com/98210850/166095796-ee8c5321-387c-466a-8b44-03b5d81a33ae.png)
 ![student](https://user-images.githubusercontent.com/98210850/166095797-ca9509f0-6d6b-413a-85ca-2a84ef0a9a05.png)
 
-# Adding Class Deails
+# Adding Class Details
 ![class deailstofill](https://user-images.githubusercontent.com/98210850/166095791-5076ef84-0e67-4e46-bf11-b8bf312bbf2f.png)
 ![classdetails](https://user-images.githubusercontent.com/98210850/166095794-274fe4e9-0b14-490c-9278-215c88b8aaa6.png)
 
